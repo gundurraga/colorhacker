@@ -1,2 +1,2 @@
-# colorhacker2
-Created with CodeSandbox
+# Color Hacker
+Everything about colors
